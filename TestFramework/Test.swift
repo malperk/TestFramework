@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+public class TestClass {
+	public func TestMethod() {
+		print("Hello World");
+	}
+
+	public init() { }
+}
