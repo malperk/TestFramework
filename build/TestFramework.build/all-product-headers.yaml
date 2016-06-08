@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/km10179/Codes/Ios/TestFramework/build/Release-iphoneos/TestFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TestFramework-Swift.h",
+          'external-contents': "/Users/km10179/Codes/Ios/TestFramework/build/Release-iphoneos/TestFramework.framework/Headers/TestFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TestFramework.h",
+          'external-contents': "/Users/km10179/Codes/Ios/TestFramework/TestFramework/TestFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/km10179/Codes/Ios/TestFramework/build/Release-iphoneos/TestFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/km10179/Codes/Ios/TestFramework/build/TestFramework.build/Release-iphoneos/TestFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

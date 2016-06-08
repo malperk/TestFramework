@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "ec7256bdaa8c3a55346cd08d459aa6df"
+build_time: [518692478, 357016000]
+inputs:
+  "/Users/km10179/Codes/Ios/TestFramework/TestFramework/Test.swift": [518689840, 0]
