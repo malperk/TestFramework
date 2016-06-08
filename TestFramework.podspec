@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "TestFramework"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "Test framework can be used for to say hello word on console."
   s.description  = "Just test project for swift framework and Cocoapods.Just test project for swift framework and Cocoapods."
   s.homepage     = "https://github.com/malperk/TestFramework"
