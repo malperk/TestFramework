@@ -17,16 +17,16 @@ Pod::Spec.new do |s|
 
   s.name         = "TestFramework"
   s.version      = "0.0.1"
-  s.summary      = "A short description of TestFramework."
+  s.summary      = "Test framework can be used for to say hello word on console."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "Just test project for swift framework and Cocoapods"
+  s.description  = "Just test project for swift framework and Cocoapods."
 
-  s.homepage     = "http://EXAMPLE/TestFramework"
+  s.homepage     = "https://github.com/malperk/TestFramework"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -63,7 +63,7 @@ Pod::Spec.new do |s|
   #
 
   # s.platform     = :ios
-  # s.platform     = :ios, "5.0"
+  # s.platform     = :ios, "9.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
